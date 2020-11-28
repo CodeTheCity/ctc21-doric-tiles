@@ -8,4 +8,4 @@ There is also a view to having a Gaelic language overlay to show and contrast th
 
 # Wikidata Queries
 
-Several SPARQL queries have been used for viewing and extracting Wikidata data. The queries can be found in the `sparql` folder and run via the [Wikidata Query Service)[https://query.wikidata.org].
+Several SPARQL queries have been used for viewing and extracting Wikidata data. The queries can be found in the `sparql` folder and run via the [Wikidata Query Service](https://query.wikidata.org).
