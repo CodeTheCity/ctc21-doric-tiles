@@ -1,0 +1,10 @@
+SELECT ?place ?place_EN ?place_SCO ?coords ?image
+  WHERE {
+    ?place wdt:P31/wdt:P279* wd:Q486972 .
+    ?place wdt:P131 wd:Q189912 .
+    ?place wdt:P625 ?coords .
+    OPTIONAL { ?place wdt:P18 ?image }.
+    OPTIONAL { ?place rdfs:label ?place_EN filter (lang(?place_EN) = "en" )}.
+    OPTIONAL { ?place rdfs:label ?place_SCO filter (lang(?place_SCO) = "sco" )}.
+    }
+ORDER By ?place_EN
