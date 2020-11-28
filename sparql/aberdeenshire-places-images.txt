@@ -1,10 +1,16 @@
-SELECT ?place ?place_EN ?place_SCO ?coords ?image
+# Get list of places in Aberdeenshire, name in English and Scots, single image, lat and long
+
+SELECT  ?place (SAMPLE(?place_EN) as ?place_EN) (SAMPLE(?place_SCO) as ?place_SCO) (SAMPLE(?image) as ?image) (SAMPLE(?longitude) as ?longitude)  (SAMPLE(?latitude) as ?latitude)
   WHERE {
     ?place wdt:P31/wdt:P279* wd:Q486972 .
     ?place wdt:P131 wd:Q189912 .
-    ?place wdt:P625 ?coords .
+    ?place p:P625 ?coordinate.
+    ?coordinate psv:P625 ?coordinate_node .
+    ?coordinate_node wikibase:geoLongitude ?longitude .
+    ?coordinate_node wikibase:geoLatitude ?latitude .
     OPTIONAL { ?place wdt:P18 ?image }.
     OPTIONAL { ?place rdfs:label ?place_EN filter (lang(?place_EN) = "en" )}.
     OPTIONAL { ?place rdfs:label ?place_SCO filter (lang(?place_SCO) = "sco" )}.
     }
+GROUP BY ?place
 ORDER By ?place_EN
