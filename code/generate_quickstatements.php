@@ -8,7 +8,7 @@ function get_id_from_url($url)
 }
 
 $file = fopen("../data/placenames_updated.csv", "r");
-$outfile = fopen("../data/quickstatements.txt", "w");
+$outfile = fopen("../data/quickstatements.tsv", "w");
 while(($data = fgetcsv($file, 500, ",")) !== FALSE)
 {
     // if there's a Scots language entry, add it to the list
