@@ -5,6 +5,7 @@ SELECT ?place ?place_EN ?place_SCO ?coords
     ?place wdt:P625 ?coords .
     OPTIONAL { ?place rdfs:label ?place_EN filter (lang(?place_EN) = "en" )}.
     OPTIONAL { ?place rdfs:label ?place_SCO filter (lang(?place_SCO) = "sco" )}.
+    OPTIONAL { ?place rdfs:label ?place_GD filter (lang(?place_GD) = "gd" )}.
     }
 ORDER By ?place_EN
 
