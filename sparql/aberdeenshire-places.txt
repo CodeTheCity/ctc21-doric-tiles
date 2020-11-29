@@ -1,4 +1,4 @@
-SELECT ?place ?place_EN ?place_SCO ?coords
+SELECT ?place ?place_EN ?place_SCO ?place_GD ?coords
   WHERE {
     ?place wdt:P31/wdt:P279* wd:Q486972 .
     ?place wdt:P131 wd:Q189912 .
@@ -8,4 +8,3 @@ SELECT ?place ?place_EN ?place_SCO ?coords
     OPTIONAL { ?place rdfs:label ?place_GD filter (lang(?place_GD) = "gd" )}.
     }
 ORDER By ?place_EN
-
