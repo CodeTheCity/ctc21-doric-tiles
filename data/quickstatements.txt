@@ -1,0 +1,106 @@
+Q1017022	Lsco	Fogieloan
+Q323196	Lsco	Abyne
+Q2638187	Lsco	Aaford
+Q4819467	Lsco	Auchnagatt
+Q805175	Lsco	Ballater
+Q805468	Lsco	Balmedie
+Q806177	Lsco	Banchry
+Q54809	Lsco	Banff
+Q3244306	Lsco	Blackburn
+Q4936404	Lsco	Boddam
+Q4952553	Lsco	Buindie
+Q24197270	Lsco	Braeheid
+Q897175	Lsco	Braemar
+Q3979	Lsco	Brideswell
+Q15059176	Lsco	Awfort
+Q24654384	Lsco	Brigend
+Q4972287	Lsco	Braidsea
+Q4982618	Lsco	Buchanhaven
+Q4996778	Lsco	The Bullers
+Q5017701	Lsco	Cairnorrie
+Q5054079	Lsco	Katerlinn
+Q5131897	Lsco	Clerkhill
+Q64990811	Lsco	cloak
+Q5149343	Lsco	Colpy
+Q5170492	Lsco	Corgarff
+Q1139052	Lsco	Crathie
+Q1009846	Lsco	Creemond
+Q5189054	Lsco	Crui'
+Q1785583	Lsco	Dauvit
+Q5278439	Lsco	Dinnet
+Q5303186	Lsco	The Dounies
+Q5309183	Lsco	Drumlithie
+Q5314951	Lsco	Dunecht
+Q1026799	Lsco	Eelon
+Q5445976	Lsco	Feshie
+Q3070901	Lsco	Fettercairn
+Q5450013	Lsco	Finnan
+Q5451002	Lsco	Fingan
+Q5476354	Lsco	Foveran
+Q138873	Lsco	The Broch
+Q1011189	Lsco	Fyvie
+Q1009777	Lsco	Gamrie
+Q5524417	Lsco	Gairtlie
+Q5588407	Lsco	Gourdon
+Q64821650	Lsco	grange
+Q24641410	Lsco	Haarlaw
+Q5682109	Lsco	Hawton
+Q1016931	Lsco	Huntly
+Q987782	Lsco	The Insch
+Q568713	Lsco	Bervie
+Q1017537	Lsco	Innerurie
+Q1009153	Lsco	Johnshaven
+Q1016999	Lsco	Kemnay
+Q3051241	Lsco	Kildrummy
+Q1741697	Lsco	Kincairdine O'Neil
+Q407193	Lsco	Kintair
+Q987775	Lsco	Lowrinkirk
+Q281188	Lsco	Linmay
+Q408357	Lsco	Lost
+Q4567587	Lsco	Lumphanan
+Q65028494	Lsco	Luthermuir
+Q3778940	Lsco	Macduff
+Q6781163	Lsco	Marycouter
+Q6792195	Lsco	Maud
+Q6823672	Lsco	Methlick
+Q1011331	Lsco	Mintla
+Q6916624	Lsco	Mossat
+Q6930998	Lsco	Muchalls
+Q7005177	Lsco	New Aiberdour
+Q15059185	Lsco	New Byth
+Q1009938	Lsco	Auchreddie
+Q1009707	Lsco	Cyaak
+Q15059187	Lsco	Neebrie
+Q1008929	Lsco	Newtonhill
+Q1382485	Lsco	Auld Deer
+Q7084820	Lsco	Auld Rayne
+Q1009340	Lsco	Auldmeldrum
+Q206547	Lsco	Pennan
+Q1016944	Lsco	Peterheid
+Q1020236	Lsco	Portlethen
+Q1010537	Lsco	Portsoy
+Q7296039	Lsco	Rattra
+Q3774591	Lsco	Rhynie
+Q1017153	Lsco	Rizarty
+Q3981	Lsco	Rothienorman
+Q3984	Lsco	Ruthven
+Q7416108	Lsco	Saneyn
+Q1009866	Lsco	Sandhaven
+Q7427018	Lsco	Sauchen
+Q1009885	Lsco	Saunt Coams
+Q1011272	Lsco	St Ceerus
+Q2323916	Lsco	St Fergus
+Q1002177	Lsco	Stanehyve
+Q7620846	Lsco	Strachan
+Q3982	Lsco	Strathdon
+Q1009989	Lsco	Strichen
+Q1009644	Lsco	Crichie
+Q1009829	Lsco	Tarland
+Q1009296	Lsco	Torphins
+Q7829854	Lsco	Towie
+Q1016738	Lsco	Turra
+Q7877253	Lsco	Widnie
+Q7993680	Lsco	Whinnyfauld
+Q1009701	Lsco	Whitehills
+Q8032720	Lsco	 Aberdeenshire
+Q8059822	Lsco	Ythanwells
