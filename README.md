@@ -8,6 +8,8 @@ Translating place names into Scots in the OSM - specifically Doric, for the nort
 
 There is also a view to having a Gaelic language overlay to show and contrast the placenames in Scotland's three national languages.
 
+Related to this project is [CTC21 Doric Tiles SwiftUI](https://github.com/CodeTheCity/ctc21-doric-tiles-SwiftUI), a simple SwiftUI app that makes use of the data.
+
 
 # Wikidata Queries
 
